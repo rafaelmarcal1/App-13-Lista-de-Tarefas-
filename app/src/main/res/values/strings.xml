@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App13ListaDeTarefas</string>
+    <string name="tarefas">Tarefas</string>
+    <string name="this_is_task_1" />
+    <string name="nova_tarefa">Informe uma nova Tarefa</string>
+    <string name="salvar">Salvar</string>
+    <string name="titulo">Lista de Tarefas\n</string>
+</resources>
